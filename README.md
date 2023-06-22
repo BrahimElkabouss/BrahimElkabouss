@@ -24,6 +24,14 @@ Je suis un professionnel motivé et orienté résultats, doté d'un esprit d'ana
 <a href="https://www.zinabel.ma/" target="_blank" width="100%">  <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/t%C3%A9l%C3%A9chargement%20(1).png" width="50%" > </a>
 <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/pierre-fabre.webp" width="50%" >
 
+<div>
+  <a href="https://mercedes-benz-maroc.com/" target="_blank" width="50%">
+    <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/banner_merc.webp" alt="Image 1" width="50%">
+  </a>
+  <a href="https://www.damaneimmo.ma/" target="_blank" width="50%">
+    <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/bank_of_africa_-.jpg" alt="Image 2" width="50%">
+  </a>
+</div>
 
 
 
