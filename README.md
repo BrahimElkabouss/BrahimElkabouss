@@ -16,26 +16,14 @@ Je suis un professionnel motivé et orienté résultats, doté d'un esprit d'ana
 * 💻 WooCommerce
 
 ## Exemples de travail
-<div class="d-flex" style="    display: flex !important;">
-<a href="https://mercedes-benz-maroc.com/" target="_blank" width="50%">  <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/banner_merc.webp" width="50%" > </a>
-<a href="https://www.damaneimmo.ma/" target="_blank" width="50%">  <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/bank_of_africa_-.jpg" width="50%" > </a>
-</div>
 
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .div {
-          display: flex;
-          background-color: black;
-          color: white;
-        }
-      </style>
+<a href="https://mercedes-benz-maroc.com/" target="_blank" width="100%">  <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/banner_merc.webp" width="50%" > </a>
+<a href="https://www.damaneimmo.ma/" target="_blank" width="100%">  <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/bank_of_africa_-.jpg" width="50%" > </a>
+<a href="https://punch.ma/" target="_blank" width="100%">  <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/t%C3%A9l%C3%A9chargement.png" width="50%" > </a>
+<a href="https://cdginvest.ma/" target="_blank" width="100%">  <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/1200px-CDG.svg.png" width="50%" > </a>
+<a href="https://www.zinabel.ma/" target="_blank" width="100%">  <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/t%C3%A9l%C3%A9chargement%20(1).png" width="50%" > </a>
+<img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/pierre-fabre.webp" width="50%" >
 
-          <div class="d-flex div" style="    display: flex !important;">
-          <a href="https://mercedes-benz-maroc.com/" target="_blank" width="50%">  <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/banner_merc.webp" width="50%" > </a>
-          <a href="https://www.damaneimmo.ma/" target="_blank" width="50%">  <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/bank_of_africa_-.jpg" width="50%" > </a>
-          </div>
-      </div>
-  </foreignObject>
-</svg>
+
+
+
