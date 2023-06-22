@@ -16,5 +16,5 @@ Je suis un professionnel motivé et orienté résultats, doté d'un esprit d'ana
 * 💻 WooCommerce
 
 ## Exemples de travail
-<a href="https://mercedes-benz-maroc.com/" target="_blank" >  <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/banner_merc.webp" width="512" > </a>
-<a href="https://www.damaneimmo.ma/" target="_blank" >  <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/bank_of_africa_-.jpg" width="512" > </a>
+<a href="https://mercedes-benz-maroc.com/" target="_blank" >  <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/banner_merc.webp" width="50%" > </a>
+<a href="https://www.damaneimmo.ma/" target="_blank" >  <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/bank_of_africa_-.jpg" width="50%" > </a>
