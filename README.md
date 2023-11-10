@@ -28,7 +28,7 @@ I'm a motivated professional focused on delivering results, equipped with analyt
 <a href="https://punch.ma/" target="_blank" width="100%">  <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/t%C3%A9l%C3%A9chargement.png" width="50%" > </a>
 <a href="https://cdginvest.ma/" target="_blank" width="100%">  <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/1200px-CDG.svg.png" width="50%" > </a>
 <a href="https://www.zinabel.ma/" target="_blank" width="100%">  <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/t%C3%A9l%C3%A9chargement%20(1).png" width="50%" > </a>
-<img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/pierre-fabre.webp" width="50%" >
+<a href="https://www.pierre-fabre.com/fr" target="_blank" width="100%">  <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/pierre-fabre.webp" width="50%" > </a>
 
 
 
