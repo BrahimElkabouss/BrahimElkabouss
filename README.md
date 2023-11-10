@@ -1,25 +1,27 @@
 ![Design and Development](https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/BRAHIM%20ELKABOUSS.png)
 
 # Brahim Elkabouss
-Je suis un développeur Full Stack passionné avec une solide expérience dans le domaine. Ayant travaillé avec des frameworks PHP tels que Laravel, Symfony et CodeIgniter, ainsi que des CMS populaires tels que PrestaShop et WordPress, j'ai acquis une expertise approfondie dans le développement d'applications web robustes et évolutives.
+I am a passionate Full Stack developer with a strong background in the field. Having worked with PHP frameworks such as Laravel, Symfony, and CodeIgniter, as well as popular CMS like PrestaShop and WordPress, I've gained extensive expertise in developing robust and scalable web applications.
 
-Mon expérience s'étend également aux frameworks JavaScript, notamment Angular, où j'ai pu créer des interfaces utilisateur dynamiques et interactives. Ma passion pour la programmation me permet d'explorer et de maîtriser facilement de nouveaux langages de programmation, ce qui me permet d'élargir continuellement mes compétences et d'aborder efficacement des projets variés.
+My experience also extends to JavaScript frameworks, notably Angular, where I've crafted dynamic and interactive user interfaces. My enthusiasm for programming allows me to easily explore and master new programming languages, consistently expanding my skills and effectively approaching diverse projects.
 
-Je suis un professionnel motivé et orienté résultats, doté d'un esprit d'analyse et de résolution de problèmes. J'apprécie travailler en équipe et collaborer avec d'autres développeurs et professionnels afin de créer des solutions novatrices et de haute qualité. Je suis également capable de travailler de manière autonome et de gérer efficacement mes tâches pour respecter les délais.
+I'm a motivated professional focused on delivering results, equipped with analytical thinking and problem-solving skills. I enjoy working in teams and collaborating with other developers and professionals to create innovative, high-quality solutions. Additionally, I'm capable of working independently and effectively managing tasks to meet deadlines.
 
-## Compétences
+## Skills
 * 💻 Laravel
+* 💻 Symfony
 * 💻 Zend Freamwork
 * 💻 JAVA JEE
+* 💻 JAVASCRIPT
 * 💻 Wordpress
+* 💻 PimCore
 * 💻 Prestashop
 * 💻 CodeIgniter
-* 💻 Symfony
 * 💻 WooCommerce
 
-## Exemples de travail
+## Work examples
 
-#### Veuillez cliquer sur chaque image pour accéder au site web.
+#### Please click on each image to access the website.
 
 <a href="https://mercedes-benz-maroc.com/" target="_blank" width="100%">  <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/banner_merc.webp" width="50%" > </a>
 <a href="https://www.damaneimmo.ma/" target="_blank" width="100%">  <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/bank_of_africa_-.jpg" width="50%" > </a>
