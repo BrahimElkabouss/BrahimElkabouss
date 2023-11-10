@@ -9,6 +9,8 @@ Je suis un professionnel motivé et orienté résultats, doté d'un esprit d'ana
 
 ## Compétences
 * 💻 Laravel
+* 💻 Zend Freamwork
+* 💻 JAVA JEE
 * 💻 Wordpress
 * 💻 Prestashop
 * 💻 CodeIgniter
