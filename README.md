@@ -23,36 +23,36 @@ I'm a motivated professional focused on delivering results, equipped with analyt
     <tr>
       <td align="center">
         <a href="https://mercedes-benz-maroc.com/" target="_blank">
-          <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/banner_merc.webp" width="250" height="125">
+          <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/banner_merc.webp" width="300" height="150">
         </a>
       </td>
       <td align="center">
         <a href="https://www.damaneimmo.ma/" target="_blank">
-          <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/bank_of_africa_-.jpg" width="250" height="125">
+          <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/bank_of_africa_-.jpg" width="300" height="150">
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
         <a href="https://punch.ma/" target="_blank">
-          <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/t%C3%A9l%C3%A9chargement.png" width="250" height="125">
+          <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/t%C3%A9l%C3%A9chargement.png" width="300" height="150">
         </a>
       </td>
       <td align="center">
         <a href="https://cdginvest.ma/" target="_blank">
-          <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/1200px-CDG.svg.png" width="250" height="125">
+          <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/1200px-CDG.svg.png" width="300" height="150">
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
         <a href="https://www.zinabel.ma/" target="_blank">
-          <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/t%C3%A9l%C3%A9chargement%20(1).png" width="250" height="125">
+          <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/t%C3%A9l%C3%A9chargement%20(1).png" width="300" height="150">
         </a>
       </td>
       <td align="center">
         <a href="https://www.pierre-fabre.com/fr" target="_blank">
-          <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/pierre-fabre.webp" width="250" height="125">
+          <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/pierre-fabre.webp" width="300" height="150">
         </a>
       </td>
     </tr>
