@@ -16,41 +16,42 @@ I'm a motivated professional focused on delivering results, equipped with analyt
 
 #### Please click on each image to access the website.
 ## Partners
+## Partners
 
 <table>
   <tr>
     <td>
       <a href="https://mercedes-benz-maroc.com/" target="_blank">
-        <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/banner_merc.webp" width="100%">
+        <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/banner_merc.webp" width="200" height="100">
       </a>
     </td>
     <td>
       <a href="https://www.damaneimmo.ma/" target="_blank">
-        <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/bank_of_africa_-.jpg" width="100%">
+        <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/bank_of_africa_-.jpg" width="200" height="100">
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://punch.ma/" target="_blank">
-        <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/t%C3%A9l%C3%A9chargement.png" width="100%">
+        <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/t%C3%A9l%C3%A9chargement.png" width="200" height="100">
       </a>
     </td>
     <td>
       <a href="https://cdginvest.ma/" target="_blank">
-        <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/1200px-CDG.svg.png" width="100%">
+        <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/1200px-CDG.svg.png" width="200" height="100">
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://www.zinabel.ma/" target="_blank">
-        <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/t%C3%A9l%C3%A9chargement%20(1).png" width="100%">
+        <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/t%C3%A9l%C3%A9chargement%20(1).png" width="200" height="100">
       </a>
     </td>
     <td>
       <a href="https://www.pierre-fabre.com/fr" target="_blank">
-        <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/pierre-fabre.webp" width="100%">
+        <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/pierre-fabre.webp" width="200" height="100">
       </a>
     </td>
   </tr>
