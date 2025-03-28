@@ -1,11 +1,12 @@
 ![Design and Development](https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/BRAHIM%20ELKABOUSS.png)
 
-# Brahim Elkabouss
-I am a passionate Full Stack developer with a strong background in the field. Having worked with PHP frameworks such as Laravel, Symfony, and CodeIgniter, as well as popular CMS like PrestaShop and WordPress, I've gained extensive expertise in developing robust and scalable web applications.
+<h1 align="center">Hi 👋, I'm Brahim Elkabouss</h1>
+<h3 align="center">I am a passionate Full Stack developer with a strong background in the field. Having worked with PHP frameworks such as Laravel, Symfony, and CodeIgniter, as well as popular CMS like PrestaShop and WordPress, I've gained extensive expertise in developing robust and scalable web applications.
 
 My experience also extends to JavaScript frameworks, notably Angular, where I've crafted dynamic and interactive user interfaces. My enthusiasm for programming allows me to easily explore and master new programming languages, consistently expanding my skills and effectively approaching diverse projects.
 
 I'm a motivated professional focused on delivering results, equipped with analytical thinking and problem-solving skills. I enjoy working in teams and collaborating with other developers and professionals to create innovative, high-quality solutions. Additionally, I'm capable of working independently and effectively managing tasks to meet deadlines.
+</h3>
 
 ## Skills
 * 💻 Laravel
@@ -31,8 +32,6 @@ I'm a motivated professional focused on delivering results, equipped with analyt
 <a href="https://www.pierre-fabre.com/fr" target="_blank" width="100%">  <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/pierre-fabre.webp" width="50%" > </a>
 
 
-<h1 align="center">Hi 👋, I'm Brahim Elkabouss</h1>
-<h3 align="center">A passionate full stack developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brahimelkabouss&label=Profile%20views&color=0e75b6&style=flat" alt="brahimelkabouss" /> </p>
 
