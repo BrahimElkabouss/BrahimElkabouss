@@ -31,7 +31,6 @@ I'm a motivated professional focused on delivering results, equipped with analyt
 <a href="https://www.pierre-fabre.com/fr" target="_blank" width="100%">  <img src="https://github.com/BrahimElkabouss/BrahimElkabouss/blob/main/pierre-fabre.webp" width="50%" > </a>
 
 
-![](https://raw.githubusercontent.com/BrahimElkabouss/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/BrahimElkabouss/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
