@@ -19,7 +19,7 @@ I'm a motivated professional focused on delivering results, equipped with analyt
 ## Partners
 
 <p align="center">
-  <table>
+  <table align="center">
     <tr>
       <td align="center">
         <a href="https://mercedes-benz-maroc.com/" target="_blank">
